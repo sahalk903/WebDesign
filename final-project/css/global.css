@@ -1,0 +1,205 @@
+body{
+	background-color: black;
+}
+
+.nav {
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.nav-container {
+	list-style-type: none;
+	padding: 0px;
+}
+
+.list-item {
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+.list-link {
+	color: pink;
+	font-size: 20px;
+
+}
+
+.header {
+font-family: 'Raleway', sans-serif;
+}
+
+
+
+.header-home {
+font-size: x-large;
+font-weight: bold;
+color: pink;
+}
+
+.header-nameHP {
+font-weight: bold;
+font-family: 'Dancing Script', cursive;
+text-align: center;
+}
+
+.header-paragraph {
+font-size: medium;
+font-weight: lighter;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+color: pink;
+border: 10px pink;
+border-style: ridge;
+
+
+}
+
+.list-io {
+text-align: center;
+color: pink;
+border: 10px pink;
+border-style: double;
+}
+
+.header-paragraph-wt {
+text-align: center;
+color: pink;
+border: 10px purple;
+border-style: double;
+
+}
+
+.header-paragraph-ve {
+text-align: center;
+color: pink;
+border: 10px pink;
+border-style: double;
+
+}
+
+.header-name {
+font-size: medium;
+font-weight: bold;
+color: pink;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+
+}
+
+.header-name-io {
+font-size: larger;
+font-weight: bolder;
+color: pink;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+
+}
+
+.header-name-ve {
+text-align: center;
+color: pink;
+border: 10px pink;
+border-style: solid;
+
+}
+
+
+.image-homepage {
+	text-align: center;
+}
+
+.video {
+	text-align: center;
+}
+
+.video-embeds-images {
+	text-align: center;
+}
+
+.image-optimization {
+	text-align: center;
+}
+
+.webfonts-image {
+	text-align: center;
+}
+
+.flex-row{
+	display: flex;
+	flex-wrap: nowrap;
+
+}
+
+.flex-row {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+
+	}
+
+.col-33 {
+width: 33.3%;
+padding: 20px;
+	}
+
+.col-50 {
+	width: 50%;
+	padding: 20px;
+	text-align: center;
+
+}
+.col-50-wf {
+	width: 50%;
+	padding: 100px;
+	text-align: center;
+
+}
+
+.example-1 {
+	font-family: 'Langar', cursive;
+	color: pink;
+	text-align: center;
+
+}
+
+.example-2 {
+	font-family: 'Lato', sans-serif;
+	color: pink;
+	text-align: center;
+}
+
+.example-3 {
+	font-family: 'Nerko One', cursive;
+	color: pink;
+	text-align: center;
+}
+
+.example-4 {
+	font-family: 'Merriweather', serif;
+	color: pink;
+	text-align: center;
+
+}
+
+.header-paragraph-home {
+	padding: 20px;
+	text-align: center;
+	color: pink;
+	border: 10px pink;
+	border-style: ridge;
+}
+
+.header-name-wf {
+font-size: larger;
+font-weight: bolder;
+color: pink;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+border: 10px pink;
+border-style: ridge;
+
+}
